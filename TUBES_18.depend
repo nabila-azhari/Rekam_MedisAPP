@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1733417781 source:c:\users\user\documents\kuliah\sem 3\struktur data\tubes_18\main.cpp
+	"header.h"
+
+1733417813 source:c:\users\user\documents\kuliah\sem 3\struktur data\tubes_18\cpp.cpp
+	"header.h"
+
+1733417518 c:\users\user\documents\kuliah\sem 3\struktur data\tubes_18\header.h
+	<iomanip>
+	<string>
+	<iostream>
+
